@@ -34,6 +34,12 @@ body {
   line-height: 1.5;
 }
 
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 1200px;
+}
+
 .contacts-list {
   list-style: none;
   padding: 0;
@@ -42,5 +48,11 @@ body {
 
 .contacts-list__item {
   font-size: 24px;
+}
+
+.site-header {
+  padding-right: 15px;
+  padding-left: 15px;
+  width: 1200px;
 }
 /*# sourceMappingURL=main.css.map */
